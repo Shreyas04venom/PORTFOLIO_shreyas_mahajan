@@ -1,0 +1,128 @@
+{
+  "hash": "642137ca",
+  "browserHash": "7a35070d",
+  "optimized": {
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "300f898e",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "8fe99fef",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "706ff01d",
+      "needsInterop": true
+    },
+    "@emailjs/browser": {
+      "src": "../../@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "8719b685",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "f464c58b",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "14f0cb88",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "283db898",
+      "needsInterop": false
+    },
+    "maath/random/dist/maath-random.esm": {
+      "src": "../../maath/random/dist/maath-random.esm.js",
+      "file": "maath_random_dist_maath-random__esm.js",
+      "fileHash": "9914ed50",
+      "needsInterop": false
+    },
+    "mdb-react-ui-kit": {
+      "src": "../../mdb-react-ui-kit/dist/mdb-react-ui-kit.esm.js",
+      "file": "mdb-react-ui-kit.js",
+      "fileHash": "ffe2c827",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "967196c7",
+      "needsInterop": true
+    },
+    "react-parallax-tilt": {
+      "src": "../../react-parallax-tilt/dist/modern/index.js",
+      "file": "react-parallax-tilt.js",
+      "fileHash": "8e5bc919",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "40504d36",
+      "needsInterop": false
+    },
+    "react-tilt": {
+      "src": "../../react-tilt/dist/index.js",
+      "file": "react-tilt.js",
+      "fileHash": "652b6d07",
+      "needsInterop": false
+    },
+    "react-vertical-timeline-component": {
+      "src": "../../react-vertical-timeline-component/dist-es6/index.js",
+      "file": "react-vertical-timeline-component.js",
+      "fileHash": "682e4186",
+      "needsInterop": true
+    },
+    "three/examples/jsm/utils/BufferGeometryUtils.js": {
+      "src": "../../three/examples/jsm/utils/BufferGeometryUtils.js",
+      "file": "three_examples_jsm_utils_BufferGeometryUtils__js.js",
+      "fileHash": "2ab1f1a2",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RAC4CXGK": {
+      "file": "chunk-RAC4CXGK.js"
+    },
+    "chunk-DBOSJ3DI": {
+      "file": "chunk-DBOSJ3DI.js"
+    },
+    "chunk-F2SWRW63": {
+      "file": "chunk-F2SWRW63.js"
+    },
+    "chunk-D3UZNAUK": {
+      "file": "chunk-D3UZNAUK.js"
+    },
+    "chunk-SU7TF7TY": {
+      "file": "chunk-SU7TF7TY.js"
+    },
+    "chunk-UZDYZMJ2": {
+      "file": "chunk-UZDYZMJ2.js"
+    },
+    "chunk-VZFPT5GA": {
+      "file": "chunk-VZFPT5GA.js"
+    },
+    "chunk-DS5CYWOR": {
+      "file": "chunk-DS5CYWOR.js"
+    },
+    "chunk-XDW2K6J4": {
+      "file": "chunk-XDW2K6J4.js"
+    },
+    "chunk-AC2VUBZ6": {
+      "file": "chunk-AC2VUBZ6.js"
+    }
+  }
+}
